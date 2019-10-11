@@ -1,0 +1,14 @@
+div{
+    width:100%;
+    color: white;
+    height: 800px;
+    text-align: center;   
+}
+body{
+    background: url("/assets/car1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    margin-top: 300px
+}
